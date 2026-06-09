@@ -1,0 +1,65 @@
+# Sales-Performance-Dashboard-Power-bi
+
+This project is an interactive Power BI dashboard designed to analyze sales performance, product performance, and customer behavior. The dashboard provides business insights through KPIs, charts, filters, and navigation across multiple report pages.
+Dashboard Pages
+1️⃣ Dashboard Overview
+Total Sales
+Total Orders
+Total Profit
+Profit Margin
+Average Discount
+Sales Target Achievement
+Regional Performance Analysis
+
+2️⃣ Sales Analysis
+Sales Trend Analysis
+Regional Sales Performance
+Salesperson Performance
+Customer Type Contribution
+Discount vs Sales Analysis
+
+3️⃣ Product Performance
+Product-wise Sales & Profit
+Revenue Contribution Analysis
+Quantity Sold Analysis
+Revenue Generating Products
+Sales vs Profit Comparison
+
+4️⃣ Customer Analysis
+Customer Segmentation
+Customer Sales Trend
+Orders by Customer Type
+Profit by Customer Type
+Contribution Analysis
+
+Tools Used:
+Power BI Desktop
+Power Query
+DAX
+Data Modeling
+Excel
+Data Visualization
+Key Skills Demonstrated
+Data Cleaning
+Data Transformation
+KPI Development
+Dashboard Design
+Business Intelligence
+Interactive Reporting
+Data Analysis
+
+Features:
+✅ Multi-Page Dashboard
+✅ Dynamic Navigation Buttons
+✅ KPI Cards
+✅ Interactive Slicers
+✅ DAX Measures
+✅ Data Modeling
+✅ Responsive Dashboard Design
+
+Business Insights:
+South region generated the highest sales and profit.
+Laptop category contributed the highest revenue.
+Corporate customers generated most of the sales.
+Profitability remained strong with a 26.17% profit margin.
+Discount levels impacted overall profitability.
